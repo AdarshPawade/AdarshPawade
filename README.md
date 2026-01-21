@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdarshPawade
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning New skills
-- 😄 Pronouns: P E T E R ⚡
+- 🌱 I’m currently focused on MERN Stack
+- 😄 Pronouns: A D ⚡
 - ⚡ Fun fact: Funny for some peoples 
 
